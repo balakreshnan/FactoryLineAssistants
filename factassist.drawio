@@ -64,11 +64,32 @@
         <mxCell id="0Ar2DF7MZhlsquNIGrsg-21" value="Front Line User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Ar2DF7MZhlsquNIGrsg-22" value="Admin User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-22" value="Front End Web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Ar2DF7MZhlsquNIGrsg-24" value="IT/Aaivu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="133" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-25" value="Admin User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-26" value="App Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242" y="93" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-28" value="Back End Web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="332" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-29" value="Open AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418.25" y="217" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-30" value="AI Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="221" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-31" value="Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560.5" y="414" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-32" value="AI Foundry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418.25" y="90" width="61.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
