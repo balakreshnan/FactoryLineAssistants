@@ -61,6 +61,15 @@
         <mxCell id="0Ar2DF7MZhlsquNIGrsg-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0Ar2DF7MZhlsquNIGrsg-5" target="0Ar2DF7MZhlsquNIGrsg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-21" value="Front Line User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-22" value="Admin User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ar2DF7MZhlsquNIGrsg-24" value="IT/Aaivu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="133" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
