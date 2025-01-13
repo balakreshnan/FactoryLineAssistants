@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VaDTco7E4Uy8ILbUedwi" name="Modules">
-    <mxGraphModel dx="1106" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
         <mxCell id="zTWC4igj7zD77Z9X0pq4-6" value="LLM/SLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="467" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zTWC4igj7zD77Z9X0pq4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zTWC4igj7zD77Z9X0pq4-7" target="zTWC4igj7zD77Z9X0pq4-8">
+        <mxCell id="zTWC4igj7zD77Z9X0pq4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zTWC4igj7zD77Z9X0pq4-7" target="zTWC4igj7zD77Z9X0pq4-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zTWC4igj7zD77Z9X0pq4-7" value="File Upload" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -362,13 +362,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zTWC4igj7zD77Z9X0pq4-8" value="User Inferface" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="671" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTWC4igj7zD77Z9X0pq4-16" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="540" y="686" width="80" height="30" as="geometry" />
+          <mxGeometry x="540" y="765" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zTWC4igj7zD77Z9X0pq4-18" value="Start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="170" y="95" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zTWC4igj7zD77Z9X0pq4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zTWC4igj7zD77Z9X0pq4-19" target="zTWC4igj7zD77Z9X0pq4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTWC4igj7zD77Z9X0pq4-19" value="Subscription Mgmt" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
