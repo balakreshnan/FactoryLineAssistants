@@ -225,6 +225,12 @@
         <mxCell id="BmOhAdobVuRmLhh7r2bY-24" value="Security" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="491.14" y="700" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="677" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-26" value="Code Mgmt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="706" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
