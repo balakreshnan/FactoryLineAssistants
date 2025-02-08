@@ -322,10 +322,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TS8dIQPNz4sEAlDqEgWR-3" value="Back Operations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="66" y="639" width="250" height="30" as="geometry" />
+          <mxGeometry x="66" y="646" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TS8dIQPNz4sEAlDqEgWR-4" value="Front Office Operations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="639" width="250" height="30" as="geometry" />
+          <mxGeometry x="540" y="646" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
