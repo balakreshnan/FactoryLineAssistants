@@ -186,6 +186,15 @@
         <mxCell id="RLvSstpQlL0RS5AVYsdA-29" value="AI Foundry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="418.25" y="90" width="61.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmOhAdobVuRmLhh7r2bY-1" target="RLvSstpQlL0RS5AVYsdA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Resource_Graph_Explorer.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="39" height="39.8" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-3" value="Graph - Ontology" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="429.8" width="61.75" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
