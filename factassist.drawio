@@ -195,6 +195,36 @@
         <mxCell id="BmOhAdobVuRmLhh7r2bY-3" value="Graph - Ontology" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="429.8" width="61.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
+          <mxGeometry x="176" y="666" width="37.65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Identity_Governance.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="668" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="251" y="668" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-13" value="Monitor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241.75" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-14" value="Reports" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="164.82999999999998" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-18" value="Governance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/User_Settings.svg;" vertex="1" parent="1">
+          <mxGeometry x="427" y="674" width="40.62" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-21" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Security_Baselines.svg;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="675" width="27.28" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-22" value="User Security" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415.31" y="706" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOhAdobVuRmLhh7r2bY-24" value="Security" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="491.14" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
