@@ -13,8 +13,14 @@
         <mxCell id="fQbog1PsTdQPIZ94Ei2H-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQbog1PsTdQPIZ94Ei2H-2" target="fQbog1PsTdQPIZ94Ei2H-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fQbog1PsTdQPIZ94Ei2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQbog1PsTdQPIZ94Ei2H-2" target="fQbog1PsTdQPIZ94Ei2H-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=1.208;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fQbog1PsTdQPIZ94Ei2H-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="433" y="400" />
+              <mxPoint x="533" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fQbog1PsTdQPIZ94Ei2H-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-hand-drawn-vol-4-1/52/spy__person__agent__security-128.png" vertex="1" parent="1">
           <mxGeometry x="385" y="320" width="40" height="40" as="geometry" />
@@ -28,6 +34,9 @@
         <mxCell id="fQbog1PsTdQPIZ94Ei2H-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-hand-drawn-vol-4-1/52/spy__person__agent__security-128.png" vertex="1" parent="1">
           <mxGeometry x="385" y="430" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fQbog1PsTdQPIZ94Ei2H-4" target="fQbog1PsTdQPIZ94Ei2H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fQbog1PsTdQPIZ94Ei2H-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-hand-drawn-vol-4-1/52/spy__person__agent__security-128.png" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="40" height="40" as="geometry" />
         </mxCell>
@@ -36,6 +45,24 @@
         </mxCell>
         <mxCell id="fQbog1PsTdQPIZ94Ei2H-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-hand-drawn-vol-4-1/52/spy__person__agent__security-128.png" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-12" value="Orchestror Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="200" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-13" value="ADF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-15" value="Quality Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-16" value="Spring Coding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-17" value="ADF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-18" value="Failure Processing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
