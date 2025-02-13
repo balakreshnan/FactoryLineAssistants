@@ -46,7 +46,7 @@
         <mxCell id="fQbog1PsTdQPIZ94Ei2H-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-hand-drawn-vol-4-1/52/spy__person__agent__security-128.png" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fQbog1PsTdQPIZ94Ei2H-12" value="Orchestror Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fQbog1PsTdQPIZ94Ei2H-12" value="Swarm Orchestrator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="200" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fQbog1PsTdQPIZ94Ei2H-13" value="ADF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
