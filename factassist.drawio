@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ar2DF7MZhlsquNIGrsg-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/AI_Studio.svg;" parent="1" vertex="1">
-          <mxGeometry x="425" y="120" width="52.5" height="55.78" as="geometry" />
+          <mxGeometry x="422" y="120" width="52.5" height="55.78" as="geometry" />
         </mxCell>
         <mxCell id="0Ar2DF7MZhlsquNIGrsg-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/Search_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="560" y="251" width="68" height="49.120000000000005" as="geometry" />
